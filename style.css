@@ -105,7 +105,6 @@ i{
 
  .Progress-icons div{
   text-align: center;
-
  } 
 
  .About-me{
@@ -115,3 +114,18 @@ i{
   border-color: black;
   border-radius: 25px;
  }
+
+.acheivements p{
+  font-weight: bold;
+  font-size: larger;
+} 
+
+i:hover{
+  font-size: 2.2em;
+  color: #555;
+}
+
+.Progress-icons i:hover{
+  font-size: 2.2em;
+  color: #E0E0E0;
+}
